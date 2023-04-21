@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Tic-Tac-Toe",
+			"path": "Tic-Tac-Toe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
